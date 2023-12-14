@@ -1,6 +1,0 @@
-Some filler text to use to practise git commands as part of the course.
-This is a second line to addcomplexity in thid file.
-
-Adding more lines as a further example.
-
-Changes for tutorial
