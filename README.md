@@ -15,3 +15,5 @@ Sample website with plenty of files for demos. Demos using git and github.
 
 
 ## How to contribute
+
+## Copyright
