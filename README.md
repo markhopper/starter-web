@@ -5,10 +5,11 @@ Using git and github together
 
 ## Introduction
 
+Adding intro text for git ptrject
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. Demos using git and github.
 
 ## Deployment
 
