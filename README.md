@@ -12,7 +12,7 @@ Adding intro text for git project. More changes
 
 Sample website with plenty of files for demos. Demos using git and github.
 
-Adding some more text.
+Adding some more text. Emergency fix for statsh example
 
 ## Deployment
 
