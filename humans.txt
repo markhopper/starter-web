@@ -4,7 +4,7 @@
 # TEAM
 
 	MH danbsfhndh.
-	Adding extra text.
+	Adding extra text. More values for stashing.
     <name> -- <role> -- <twitter>
 
 # THANKS
