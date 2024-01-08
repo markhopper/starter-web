@@ -5,7 +5,8 @@ Using git and github together
 
 ## Introduction
 
-Adding intro text for git ptrject
+Adding intro text for git project. More changes
+
 
 ## Purpose
 
